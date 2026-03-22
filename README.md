@@ -2,7 +2,7 @@
 👋 Hey, I’m Ayush Shivhare — a Software Development Engineer focused on building scalable and efficient systems, with strong fundamentals in Python, Data Structures & Algorithms, and SQL.
 
 ## 🚀 Projects
-🔹 Full Stack SaaS App (Auth, APIs, Deployment)
+🔹 Full Stack SaaS App (Auth, APIs, Deployment)          
 🔹 Backend System (Scalable APIs, Security)
 
 ## 🌐 Socials:
