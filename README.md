@@ -2,10 +2,8 @@
 👋 Hey, I’m Ayush Shivhare — a Software Development Engineer focused on building scalable and efficient systems, with strong fundamentals in Python, Data Structures & Algorithms, and SQL.
 
 ## 🚀 Projects
-- 🔹 Full Stack SaaS App (Auth, APIs, Deployment)
-- 🔹 Backend System (Scalable APIs, Security)
-- 🔹 Aura AI (LLM-based Assistant)
-- 🔹 InstaPilot (Automation Tool)
+🔹 Full Stack SaaS App (Auth, APIs, Deployment)
+🔹 Backend System (Scalable APIs, Security)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shivhare_3515/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushshivhare3515/) 
