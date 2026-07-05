@@ -1,4 +1,4 @@
-# 💫 About Me
+## 💫 About Me
 
 👋 Hey, I'm Ayush Shivhare — a Software Development Engineer focused on building scalable and efficient systems, with strong fundamentals in Data Structures & Algorithms, backend architecture, and SQL.
 
