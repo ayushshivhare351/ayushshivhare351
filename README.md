@@ -44,7 +44,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ayushshivhare351&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshivhare351&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
