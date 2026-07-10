@@ -6,16 +6,17 @@
 
 - 👯 I’m looking to collaborate on [SwiftLink](https://github.com/ayushshivhare351/Url-Shortener)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayushshivhare351](https://github.com/ayushshivhare351)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ayushshivhare351)
 
 - 📫 How to reach me **ayushshivhare351@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16lBkQdzlqCCqIipJ26Zrm3xnFyDpxiZC/view?usp=sharing](https://drive.google.com/file/d/16lBkQdzlqCCqIipJ26Zrm3xnFyDpxiZC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16lBkQdzlqCCqIipJ26Zrm3xnFyDpxiZC/view?usp=sharing)
 
 ## Projects
 
-- **SwiftLink** — Full-stack URL shortener with auth, analytics dashboard & Redis caching
-- **QueueFlow** — Queue-based job processing with BullMQ, Redis & Dead Letter Queue
+- **SwiftLink** — Full-stack URL shortener with auth, analytics dashboard & Redis caching. [Link](https://github.com/ayushshivhare351/Url-Shortener)
+
+- **QueueFlow** — Queue-based job processing with BullMQ, Redis & Dead Letter Queue. [Link](https://github.com/ayushshivhare351/Url-Shortener)
 
 ## Socials
 
