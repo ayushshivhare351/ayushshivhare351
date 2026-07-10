@@ -1,4 +1,4 @@
-## 💫 About Me
+## About Me
 
 👋 Hey, I'm Ayush Shivhare — a Software Development Engineer focused on building scalable and efficient systems, with strong fundamentals in Data Structures & Algorithms, backend architecture, and SQL.
 
@@ -12,12 +12,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16lBkQdzlqCCqIipJ26Zrm3xnFyDpxiZC/view?usp=sharing](https://drive.google.com/file/d/16lBkQdzlqCCqIipJ26Zrm3xnFyDpxiZC/view?usp=sharing)
 
-## 🚀 Projects
+## Projects
 
 - **SwiftLink** — Full-stack URL shortener with auth, analytics dashboard & Redis caching
 - **QueueFlow** — Queue-based job processing with BullMQ, Redis & Dead Letter Queue
 
-## 🌐 Socials
+## Socials
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
