@@ -1,3 +1,12 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,40:0EA5E9,70:2563EB,100:7C3AED&text=Ayush%20Shivhare&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Development%20Engineerr%20🚀&descAlignY=70"/>
+
+<br/>
+
+
+
+</div>
+
 ## About Me
 
 👋 Hey, I'm Ayush Shivhare — a Software Development Engineer focused on building scalable and efficient systems, with strong fundamentals in Data Structures & Algorithms, backend architecture, and SQL.
@@ -18,6 +27,17 @@
 
 - **QueueFlow** — Queue-based job processing with BullMQ, Redis & Dead Letter Queue. [Link](https://github.com/ayushshivhare351/Url-Shortener)
 
+
+# 🏆 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ayushshivhare351" target="_blank">
+<img src="https://leetcard.jacoblin.cool/ayushshivhare351?theme=radical&font=Monda&colors=%230d1117%2C%231f6feb%2C%23FFFFFF%2C%2379c0ff%2C%2C%23dbeafe"/>
+</a>
+<br/><br/>
+</div>
+
 ## Socials
 
 <h3 align="left">Connect with me:</h3>
@@ -30,19 +50,5 @@
 
 <h3 align="left">Tech stack:</h3>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=py,react,vite,tailwind,js,nodejs,express,mongodb,prisma,redis,postgres,mysql,aws,docker,css,github,githubactions,vscode,postman,git,stackoverflow,windows)](https://skillicons.dev)
 
