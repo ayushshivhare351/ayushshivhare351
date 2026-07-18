@@ -22,7 +22,6 @@
 
 ## LeetCode Stats
 
--
 <div align="center">
 <a href="https://leetcode.com/u/ayushshivhare351" target="_blank">
 <img src="https://leetcard.jacoblin.cool/ayushshivhare351?theme=radical&font=Monda&colors=%230d1117%2C%231f6feb%2C%23FFFFFF%2C%2379c0ff%2C%2C%23dbeafe"/>
@@ -30,17 +29,14 @@
 <br/><br/>
 </div>
 
-## Socials
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayushshivhare3515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushshivhare3515" height="30" width="40" /></a>
-<a href="https://instagram.com/shivhare_3515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivhare_3515" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushshivhare351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushshivhare351" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ayushshivhare351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushshivhare351" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Tech stack:</h3>
+## Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,react,vite,tailwind,js,nodejs,express,mongodb,prisma,redis,postgres,mysql,aws,docker,css,github,githubactions,vscode,postman,git,stackoverflow,windows)](https://skillicons.dev)
 
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/ayushshivhare3515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushshivhare3515" height="35" width="45" /></a>
+<a href="https://instagram.com/shivhare_3515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivhare_3515" height="35" width="45" /></a>
+<a href="https://www.leetcode.com/ayushshivhare351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushshivhare351" height="35" width="45" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ayushshivhare351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushshivhare351" height="35" width="45" /></a>
+</p>
