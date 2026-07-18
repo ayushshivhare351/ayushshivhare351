@@ -7,7 +7,7 @@
 
 👋 Hey, I'm Ayush Shivhare — a Software Development Engineer focused on building scalable and efficient systems, with strong fundamentals in Data Structures & Algorithms, backend architecture, and SQL.
 
-- 🔭 I’m currently working on [QueueFlow](https://github.com/ayushshivhare351/Url-Shortener)
+- 🔭 I’m currently working on [QueueFlow](https://github.com/ayushshivhare351/QueueFlow)
 
 - 📫 How to reach me **ayushshivhare351@gmail.com**
 
@@ -17,7 +17,7 @@
 
 - **SwiftLink** — Full-stack URL shortener with auth, analytics dashboard & Redis caching. [Link](https://github.com/ayushshivhare351/Url-Shortener)
 
-- **QueueFlow** — Queue-based job processing with BullMQ, Redis & Dead Letter Queue. [Link](https://github.com/ayushshivhare351/Url-Shortener)
+- **QueueFlow** — Queue-based job processing with BullMQ, Redis & Dead Letter Queue. [Link](https://github.com/ayushshivhare351/QueueFlow)
 
 
 ## Tech stack
