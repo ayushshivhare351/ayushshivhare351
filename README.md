@@ -1,9 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ayush%20Shivhare&fontColor=FFFFFF&fontSize=60&animation=fadeIn&desc=Software%20Development%20Engineer&descSize=20&descAlignY=51&fontAlignY=33&fontAlign=50"/>
-
 <br/>
-
 </div>
+
 ## About Me
 
 👋 Hey, I'm Ayush Shivhare — a Software Development Engineer focused on building scalable and efficient systems, with strong fundamentals in Data Structures & Algorithms, backend architecture, and SQL.
