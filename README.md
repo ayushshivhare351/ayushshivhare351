@@ -9,10 +9,6 @@
 
 - 🔭 I’m currently working on [QueueFlow](https://github.com/ayushshivhare351/Url-Shortener)
 
-- 👯 I’m looking to collaborate on [SwiftLink](https://github.com/ayushshivhare351/Url-Shortener)
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ayushshivhare351)
-
 - 📫 How to reach me **ayushshivhare351@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16lBkQdzlqCCqIipJ26Zrm3xnFyDpxiZC/view?usp=sharing)
@@ -24,10 +20,10 @@
 - **QueueFlow** — Queue-based job processing with BullMQ, Redis & Dead Letter Queue. [Link](https://github.com/ayushshivhare351/Url-Shortener)
 
 
-# 🏆 LeetCode Stats
+## LeetCode Stats
 
+-
 <div align="center">
-
 <a href="https://leetcode.com/u/ayushshivhare351" target="_blank">
 <img src="https://leetcard.jacoblin.cool/ayushshivhare351?theme=radical&font=Monda&colors=%230d1117%2C%231f6feb%2C%23FFFFFF%2C%2379c0ff%2C%2C%23dbeafe"/>
 </a>
