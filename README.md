@@ -20,15 +20,6 @@
 - **QueueFlow** — Queue-based job processing with BullMQ, Redis & Dead Letter Queue. [Link](https://github.com/ayushshivhare351/Url-Shortener)
 
 
-## LeetCode Stats
-
-<div align="center">
-<a href="https://leetcode.com/u/ayushshivhare351" target="_blank">
-<img src="https://leetcard.jacoblin.cool/ayushshivhare351?theme=radical&font=Monda&colors=%230d1117%2C%231f6feb%2C%23FFFFFF%2C%2379c0ff%2C%2C%23dbeafe"/>
-</a>
-<br/><br/>
-</div>
-
 ## Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,react,vite,tailwind,js,nodejs,express,mongodb,prisma,redis,postgres,mysql,aws,docker,css,github,githubactions,vscode,postman,git,stackoverflow,windows)](https://skillicons.dev)
@@ -40,3 +31,14 @@
 <a href="https://www.leetcode.com/ayushshivhare351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushshivhare351" height="35" width="45" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ayushshivhare351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushshivhare351" height="35" width="45" /></a>
 </p>
+
+
+## LeetCode Stats
+
+<div align="center">
+<a href="https://leetcode.com/u/ayushshivhare351" target="_blank">
+<img src="https://leetcard.jacoblin.cool/ayushshivhare351?theme=radical&font=Monda&colors=%230d1117%2C%231f6feb%2C%23FFFFFF%2C%2379c0ff%2C%2C%23dbeafe"/>
+</a>
+<br/><br/>
+</div>
+
